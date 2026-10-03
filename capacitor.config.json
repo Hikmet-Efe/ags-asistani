@@ -1,0 +1,9 @@
+{
+  "appId": "com.agsasistani.app",
+  "appName": "AGS & ÖABT Asistanı",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
